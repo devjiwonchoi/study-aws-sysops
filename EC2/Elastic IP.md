@@ -1,4 +1,3 @@
-
 By default, when restart an instance, it changes its public IP.
 
 To have a fixed IP, use Elastic IP.

@@ -12,3 +12,4 @@ After all, based on the usage accumulation, the burst credit gets restored to ce
 
 Gives unlimited burst credit, so will not drop any performance, but additional payment for the additional consumed burst credit.
 
+**Note: You cannot purchase a burst (CPU) credit**

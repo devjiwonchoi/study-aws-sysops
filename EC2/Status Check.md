@@ -3,12 +3,22 @@ Automated checks to identify hardware & software issues
 ### System Status Check
 
 - Monitors problems on AWS Systems
+	- Loss of network connectivity
+	- Loss of system power
+	- Software issues on the physical host 
+	- Hardware issues on the physical host that impact network reachability
 - Personal Health Dashboard - scheduled critical maintenance by AWS
-	- If failure on AWS Hardware, stop and start the instance - [[Elastic IP#^restart-instance-changes-ip|which will migrate to new host]]
+	- If failure on AWS Hardware, choose one:
+		- Wait for AWS to fix the host
+		- Stop and start the instance - [[Elastic IP#^restart-instance-changes-ip|which will migrate to new host]]
 
 ### Instance Status Check
 
-- Monitors SW/network config of instance
+- Monitors SW/network config of **individual** instance
+    - Incorrect networking or startup configuration
+    - Exhausted memory
+    - Corrupted file system
+    - Incompatible kernel
 - If failure, reboot or change instance config
 
 ### Automating & Recovery

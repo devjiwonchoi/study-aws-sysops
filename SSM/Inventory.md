@@ -1,7 +1,7 @@
 
 Collect metadata from instances (EC2, On-premises)
 
-Goes along with [[SSM State Manager]]
+Goes along with [[State Manager]]
 
 I guess its like an insights or analytics of Instances.
 

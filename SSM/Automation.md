@@ -10,6 +10,6 @@ Triggered by:
 
 ### Automation Runbook
 
-- [[SSM Documents]] of type Automation
+- [[Documents]] of type Automation
 - Defines actions preformed on instances or AWS resources
 - Pre-defined or custom

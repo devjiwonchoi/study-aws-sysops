@@ -1,11 +1,12 @@
 
 [[ELB (Elastic Load Balancer)]]'s entry group of these:
 
-EC2 instances
-ECS tasks
-Lamda functions
-IP Adresses
+- EC2 instances
+- ECS tasks
+- Lamda functions
+- IP Adresses
 
+> You can't specify publicly routable IP addresses. - public IPv4
 ### Settings
 
 - [[Deregistration Delay (Connection Draining)]] seconds

@@ -9,7 +9,7 @@ Retrieve with `X-Forwarded-` header, port, proto
 
 ### Listener Rules
 
-![[Screenshot 2023-10-21 at 8.24.31 PM.png]]
+![ALB Listener Rules diagram by Stephane Maarek](https://github.com/devjiwonchoi/study-aws-sysops/blob/36509294e801537074ebfdab510d6c4daab06dd6/Screenshot%202023-10-21%20at%208.24.31%E2%80%AFPM.png?raw=true)
 
 > Great diagram by [Stephane Maarek](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
 

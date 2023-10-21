@@ -13,3 +13,7 @@ Types of ELB:
 4. [[GWLB (Gateway Load Balancer)]] - Operates at Network layer - IP Protocol
 
 Link security group of instance to load balancers.
+
+### Monitoring and Logs
+
+Logs can be sent to S3

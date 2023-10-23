@@ -10,8 +10,8 @@
 Get the attributes of [[Resources]]
 ## FindInMap
 
-Return a named value from a specific key
-`!FindInMap [MapName, TopLevelKey, SecondLevelKey`
+Return a named value from a specific key in [[Mappings]]
+`!FindInMap [MapName, TopLevelKey, SecondLevelKey]`
 ## ImportValue
 
 Import values that are exported in other templates

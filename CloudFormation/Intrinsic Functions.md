@@ -17,7 +17,7 @@ Return a named value from a specific key in [[Mappings]]
 Import values that are exported in other templates
 ## Join
 
-![[Screenshot 2023-10-23 at 8.20.11 PM.png]]
+![Fn::Join image by Stephane Maarek](https://github.com/devjiwonchoi/study-aws-sysops/blob/main/Screenshot%202023-10-23%20at%208.20.11%E2%80%AFPM.png?raw=true)
 ## Sub
 
 Shorthand, is used to substitute variables

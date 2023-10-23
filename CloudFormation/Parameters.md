@@ -3,7 +3,7 @@ Provide inputs to [[CloudFormation]] template
 
 Reusable
 
-![[Screenshot 2023-10-23 at 7.29.08 PM.png]]
+![Parameters Settings by Stephane Maarek](https://github.com/devjiwonchoi/study-aws-sysops/blob/main/Screenshot%202023-10-23%20at%207.29.08%E2%80%AFPM.png?raw=true)
 
 Reference parameter using `!Ref`
 
